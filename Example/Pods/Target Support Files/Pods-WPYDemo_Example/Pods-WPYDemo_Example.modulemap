@@ -1,0 +1,6 @@
+framework module Pods_WPYDemo_Example {
+  umbrella header "Pods-WPYDemo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

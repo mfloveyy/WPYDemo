@@ -1,0 +1,22 @@
+{
+  "name": "WPYDemo",
+  "version": "0.1.0",
+  "summary": "A short description of WPYDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fan/WPYDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fan": "test@pingan.com.cn"
+  },
+  "source": {
+    "git": "https://github.com/fan/WPYDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WPYDemo/Classes/**/*"
+}

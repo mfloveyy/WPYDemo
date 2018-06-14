@@ -1,0 +1,16 @@
+PODS:
+  - WPYDemo (0.1.0)
+
+DEPENDENCIES:
+  - WPYDemo (from `../`)
+
+EXTERNAL SOURCES:
+  WPYDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WPYDemo: 3cb34d46c05fc550dd8b30a404a082e2d2ed3af3
+
+PODFILE CHECKSUM: 9608d6832e0cd347b6fb51e06afaa7952c2e9139
+
+COCOAPODS: 1.5.3

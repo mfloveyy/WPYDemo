@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WPYDemo_Example' do
+  pod 'WPYDemo', :path => '../'
+
+  target 'WPYDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

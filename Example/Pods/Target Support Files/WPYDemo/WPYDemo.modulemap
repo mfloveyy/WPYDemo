@@ -1,0 +1,6 @@
+framework module WPYDemo {
+  umbrella header "WPYDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
